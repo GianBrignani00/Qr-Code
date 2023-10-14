@@ -1,0 +1,38 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #D5E1EF;
+}
+
+.container{
+    text-align: center;
+    height: 427px;
+    width: 275px;
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    
+}
+
+.text{
+    margin: 12px;
+}
+
+img{
+    height: 247px;
+    width: 247px;
+    border-radius: 10px 10px 10px 10px;
+    margin-top: 12px;
+}
+
+h2{
+    font-size: 20px;
+    font-family: 'Outfit', sans-serif; 
+} 
+
+p{
+    font-size: 14px;
+    font-family: 'Outfit', sans-serif; 
+    color: #969799 ;
+}
